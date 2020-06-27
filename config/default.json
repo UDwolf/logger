@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Umesh:Wolf@12345@cluster0-4vfos.mongodb.net/logger1?retryWrites=true&w=majority",
+  "jwtSecret": "UdSecret"
+}
